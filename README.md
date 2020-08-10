@@ -1,4 +1,4 @@
-# GlaielGamesOldFlashSources
+# FLAs of all my old flash games
 a release of the source code for all my old flash games (from 2001 to 2012), for educational &amp; preservation purposes only
 
 All games in this repository are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
