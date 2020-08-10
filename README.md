@@ -6,6 +6,8 @@ This means you can use these for non-commercial uses only, with attribution, and
 
 If games I made are currently missing from this dump, it's because I either lost the flas, couldn't reach collaborators for permission to open source, didn't receive permission to open source, or the games are currently available in commercial format (Aether and AVGM are excluded because they are both currently available as part of [The Basement Collection](https://store.steampowered.com/app/214790/The_Basement_Collection/) on steam)
 
+Sequels are placed together in the same folder as the first one. 
+
 If I locate any lost sources or get permission from collaborators I will add in some of the missing games.
 
 
