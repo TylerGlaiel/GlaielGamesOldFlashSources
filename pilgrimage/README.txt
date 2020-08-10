@@ -1,0 +1,1 @@
+Pilgrimage was a parody of the "Art Game" genre made in 2009 once I started getting involved in the indie game development scene. This uses some weird obscure flash tech (pixelbender & dynamic audio) that should make it pretty interesting to take a look at. 

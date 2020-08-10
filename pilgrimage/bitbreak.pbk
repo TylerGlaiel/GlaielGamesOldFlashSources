@@ -1,0 +1,26 @@
+<languageVersion: 1.0;>
+
+kernel pixelate
+<   namespace : "GLF";
+    vendor : "Tyler Glaiel";
+    version : 1;
+    description : "reduce color depth of an image"; >
+{
+
+    parameter float bit
+    <minValue: 1.0;
+     maxValue: 256.0;
+     defaultValue: 1.0;>;
+
+    input image4 inputImage;
+    output pixel4 outputPixel;
+
+
+    void
+    evaluatePixel()
+    {
+        float4 v = sampleNearest(inputImage, outCoord());
+        v = floor(v*bit+.5)/bit;
+        outputPixel = v;
+    }
+}
