@@ -1,0 +1,1 @@
+﻿package com.glaiel.util.system {		public class GarbageCollector {		import flash.net.LocalConnection;				public function GarbageCollector() { }				public static function run(){			try {				new LocalConnection().connect('foo');				new LocalConnection().connect('foo');			} catch (e:*) {}		}	}}
