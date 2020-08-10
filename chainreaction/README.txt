@@ -1,0 +1,1 @@
+Chain Reaction Game (1 2 and 3) were all made pretty quickly within a short period of time. I kept releasing "sequels" instead of just updating the original. I think I was trying to win a competition with them.
