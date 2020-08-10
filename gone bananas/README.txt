@@ -1,0 +1,1 @@
+Gone Bananas was the first platformer I ever made, but I only ever posted it to newgrounds on an alt account because I didn't think it was that good. Well it's here now forever and ever and ever.  

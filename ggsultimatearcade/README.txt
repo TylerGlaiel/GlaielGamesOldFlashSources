@@ -1,0 +1,2 @@
+GG's Ultimate Arcade (GG was short for Glaiel-Gamer, my username on newgrounds) was a collection of 16 minigames and a bunch of little interactive toys.
+I think this took about 2 weeks to make... I just wanted to make a ton of games in a short amount of time to take my mind off my parents getting divorced, which happened around the same time. 

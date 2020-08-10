@@ -1,0 +1,23 @@
+
+<languageVersion : 1.0;>
+
+kernel Crossfade
+<   namespace : "GlaFil";
+    vendor : "Glaiel Games";
+    version : 1;
+    description : "Turns to black and white and blurs"; >
+{
+
+   input image4 bottom;
+   input image4 top;
+   output pixel4 dst;
+   
+   
+   void evaluatePixel()
+   {
+        float b = sampleNearest(bottom, outCoord()).r > sampleNearest(top, outCoord()).r ? 1.0:0.0;
+        //float b = (sampleNearest(bottom, outCoord()).r-sampleNearest(top, outCoord()).r)*256.0;//ceil(sampleNearest(bottom, outCoord()).r - sampleNearest(top, outCoord()).r);
+        b += (1.0-sampleNearest(top, outCoord()).r) / 5.0;
+        dst = pixel4(b, b, b, 1);
+   }
+}

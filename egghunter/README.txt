@@ -1,0 +1,1 @@
+Egg Hunter was my attempt at making a metroidvania when I was 14. It was a pretty big game with 5 boss fights, but also every level looked the same so you had no idea where you were ever. 

@@ -1,0 +1,1 @@
+Aqua Slug was made in 3 weeks for a summer games competition. It was meant to be a parody of metal slug with squirt guns & water balloons instead of guns & grenades. Despite not being my most popular game its one of the ones I'm most known for, probably because it was much more memorable than the other stuff I made that got lots of views. 

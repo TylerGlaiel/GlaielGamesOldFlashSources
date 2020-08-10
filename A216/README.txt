@@ -1,0 +1,3 @@
+A216 was my pathetic attempt at "DRM" to prevent other sites from rehosting my flash files. A bunch of my really old games (pre-newgrounds) had a "security check" that would search for "/A216/013572960110937.txt" and check the contents of it before they'd let you play. It's included here since I really don't wanna edit the source files at all before uploading them here. 
+
+I stopped doing this once I realized it was 10000x better to just have the games include a link back to my website instead. 
