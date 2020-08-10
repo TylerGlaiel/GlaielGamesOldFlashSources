@@ -4,7 +4,7 @@ a release of the source code for all my old flash games (from 2001 to 2012), for
 All games in this repository are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 This means you can use these for non-commercial uses only, with attribution, and must release any derivitave versions you create under the same license. Basically, use these for preservation and educational purposes only.
 
-If games I made are currently missing from this dump, it's because I either lost the flas, couldn't reach collaborators for permission to open source, didn't receive permission to open source, or the games are currently available in commercial format (Aether and AVGM are excluded because they are both currently available as part of [The Basement Collection](https://store.steampowered.com/app/214790/The_Basement_Collection/) on steam)
+If games I made are currently missing from this dump, it's because I either lost the flas, couldn't reach collaborators for permission to open source, didn't receive permission to open source, or the games are currently available in commercial format (Aether and AVGM are excluded because they are both currently available as part of [The Basement Collection](https://store.steampowered.com/app/214790/The_Basement_Collection/) on steam). Collab projects (red&black, white&black, etc) are excluded, as are games where I was only a secondary collaborator instead of the primary author. 
 
 Sequels are placed together in the same folder as the first one. 
 
