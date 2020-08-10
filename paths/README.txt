@@ -1,0 +1,1 @@
+Paths and Paths 2 was my attempt at making an "improved" version of the "mouse avoider" genre game, where you controlled the obstacles in addition to just trying to dodge them. I still like this concept a lot. 

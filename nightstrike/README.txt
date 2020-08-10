@@ -1,0 +1,1 @@
+Nightstrike was really cool and the level 10 bee boss is still one of my favorite bosses in any games I've made
