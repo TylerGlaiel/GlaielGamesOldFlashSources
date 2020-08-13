@@ -18,3 +18,6 @@ I have resaved none of these files under newer versions of flash. They remain as
 The majority of these games (at least all the 2006 and earlier ones) were made with AS2, which means in order to actually view the code for them you'll need to open them in Flash CS6 or earlier, because adobe completely removed support for that in Animate CC (it literally deletes any AS2 code that was placed on movieclips when you open the file, which is where a majority of the code was placed in some of these old games). 
 
 Ruffle.rs and Bluemaxima Flashpoint are making great efforts to preserve the legacy and history of flash games, but considering that making games in flash is going to soon be a lost art, I think it's important to preserve the source files that made these games as well. There's a ton of weird tricks and methods used in making these old games that will just be lost to time otherwise, because modern game engines just don't really work the same way flash did. 
+
+
+(Note: Some games will not compile on more recent versions of flash, replacing "JSON.encode" and "JSON.decode" within NewgroundsAPI.as with "JSON.stringify" and "JSON.parse" respectively should fix this on most of them. I elected not to do this manually, figuring its better to have the "original files" in case people want to compile with the version of flash the projects were created in)
