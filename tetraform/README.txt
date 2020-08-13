@@ -1,0 +1,3 @@
+Tetraform was made over the course of a month while I was in college, shortly before I dropped out to work on Closure full time. This was the last flash game I ever made outside of some game jam stuff, and also was the first one I made that used OOP extensively. 
+
+note: this was originally compiled with flash CS4, to compile it with later versions of flash you need to replace "JSON.encode" and "JSON.decode" within NewgroundsAPI.as with "JSON.stringify" and "JSON.parse" respectively.

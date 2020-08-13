@@ -1,0 +1,1 @@
+﻿package  {		public class Globals {				static public var music:Boolean = true;		static public var sound:Boolean = true;				public function Globals() { }	}	}
